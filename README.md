@@ -8,4 +8,3 @@
 lyc4614/lyc4614 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- 我是一名计算机专业的毕业生，读书的时候没有好好学习知识，毕业后两年重新出发开始学习。
